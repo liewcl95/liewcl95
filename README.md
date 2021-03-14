@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @liewcl95
+- 👋 Hi, I’m Liam
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning data analysis with Python
 - 📫 I can be reached at liewcl95@gmail.com
